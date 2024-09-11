@@ -15,7 +15,7 @@ This **To-Do App** is a simple and intuitive tool for managing your daily tasks.
 
 ## 🛠️ Technologies Used
 
-- **React** ⚛️: JavaScript library for building the user interface.
+- **Javascript** : JavaScript logic for building the user interface.
 - **CSS** 🎨: For responsive styling and custom layouts.
 - **Local Storage** 💾: Saves your tasks so they persist even when you close the app.
 - **Netlify** 🚀: Deployment and hosting for the app.
